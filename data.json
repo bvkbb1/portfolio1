@@ -1,0 +1,298 @@
+{
+    "profile": {
+        "name": "Vinay Kumar Bantubilli",
+        "title": "Full-Stack Developer & UI/UX Designer",
+        "bio": "Passionate Flutter developer with experience building cross-platform apps for Android, iOS, and Web. Skilled in creating elegant, high-performance applications that solve real-world problems.\n<br>Familiar with a wide range of technologies including Angular, Material UI, PrimeNG, Bootstrap, HTML, CSS, JavaScript, MongoDB, PostgreSQL, Node.js, Express, Firebase, Supabase, and JSON Server.\n<br>I love turning complex ideas into smooth, user-friendly experiences.",
+        "image": "assets/profile_img.jpg",
+        "socialLinks": [
+            {
+                "platform": "GitHub",
+                "url": "https://github.com/bvkbb1",
+                "icon": "fab fa-github"
+            },
+            {
+                "platform": "LinkedIn",
+                "url": "https://linkedin.com/in/vinay-kumar-bantubilli",
+                "icon": "fab fa-linkedin"
+            },
+            {
+                "platform": "Email",
+                "url": "mailto:bantubillivinaykumar@gmail.com",
+                "icon": "fas fa-envelope"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "title": "MMAK - Task Management App",
+            "description": "A simple and efficient task management mobile app developed using Flutter and Firebase, deployed for clients like Katzung Pharmaceuticals and Pulse Hospitals. The app supports three user roles: Admin, Manager, and User. Admins can create users, managers, and other admins, as well as view all tasks in detail. Managers can view their own tasks and those of their team. Users can create personal tasks and assign them to coworkers or managers. MMAK is available on both Android and iOS platforms.",
+            "category": "flutter",
+            "image": "https://static.vecteezy.com/system/resources/thumbnails/019/928/528/small_2x/businesswoman-take-an-assessment-questionnaire-evaluation-online-survey-online-exam-choosing-the-right-answer-in-the-exam-photo.jpg",
+            "links": [
+                {
+                    "type": "playstore",
+                    "url": "https://play.google.com/store/apps/details?id=com.katzung.emptracking&pcampaignid=web_share",
+                    "icon": "fab fa-google-play"
+                },
+                {
+                    "type": "appstore",
+                    "url": "https://apps.apple.com/app/id6747702103",
+                    "icon": "fab fa-apple"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Firebase",
+                "Android",
+                "iOS",
+                "Provider",
+                "Task Management",
+                "Role-based Access",
+                "Productivity",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "Flutter Insta Clone",
+            "description": "A full-featured social media mobile app developed in Flutter using Firebase as the backend. Inspired by Instagram, it includes functionality such as posting images, liking and commenting on posts, following/unfollowing users, user authentication (login, logout, change password), profile photo updates, chat, notifications, blocking/unblocking users, and real-time video calling implemented using flutter_webrtc, Dark Mode and Light Mode.",
+            "category": "flutter",
+            "image": "https://cdn.dribbble.com/users/9190175/screenshots/19123410/media/b7a0cc1e197ff948fef2b5915fa1710c.png",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/instaCloneV",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://insta-clone-v-8ceba.web.app/",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Android",
+                "iOS",
+                "Web",
+                "Bloc",
+                "Firebase",
+                "Social Media",
+                "Real-time Chat",
+                "Video Calling",
+                "flutter_webrtc",
+                "Notifications",
+                "Authentication",
+                "Profile Management",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "Snake Game",
+            "description": "A simple sname game that the snake can move based on gestures and swallows the food.",
+            "category": "flutter",
+            "image": "https://wallpaperaccess.com/full/8552514.jpg",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https: //github.com/bvkbb1/snakeGameV",
+                    "icon": "fab fa-github"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Android",
+                "iOS",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "E-commerce Dashboard",
+            "description": "Admin dashboard for managing products, orders, and analytics with Angular",
+            "category": "angular",
+            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/alexjohnson/ecommerce-dashboard",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://ecommerce-dashboard-demo.com",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "Angular",
+                "TypeScript",
+                "Dashboard"
+            ]
+        },
+        {
+            "title": "Portfolio - 1",
+            "description": "Responsive portfolio website showcasing projects and skills",
+            "category": "web-apps",
+            "image": "https://adslgroup.com/wp-content/uploads/2018/07/Portfolio-ADSL-Social.png",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/portfolio",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://bvkbb1.github.io/portfolio/",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "Birthday Wish Web App",
+            "description": "Responsive Web page for wishing the birthday event",
+            "category": "web-apps",
+            "image": "https://img.freepik.com/premium-photo/wooden-ebony-happy-birthday-concept-creative-horizontal-art-poster_107173-64327.jpg?w=2000",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/Raju-Wish-1",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://bvkbb1.github.io/Raju-Wish-1/",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "Birthday Wish Web App - 2",
+            "description": "Responsive Web page for wishing the birthday event",
+            "category": "web-apps",
+            "image": "https://st.depositphotos.com/20423458/54176/i/450/depositphotos_541766852-stock-photo-happy-birthday-concept.jpg",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/raju-wish-2",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://bvkbb1.github.io/raju-wish-2/",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "Calculator - 1",
+            "description": "A simple calculator app",
+            "category": "web-apps",
+            "image": "https://png.pngtree.com/thumb_back/fh260/background/20230722/pngtree-3d-calculator-in-sleek-white-design-with-minimalist-background-illustrated-image_3782741.jpg",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/calculator_1",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://bvkbb1.github.io/calculator_1",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "Calculator - 2",
+            "description": "A simple calculator app",
+            "category": "web-apps",
+            "image": "https://png.pngtree.com/thumb_back/fw800/background/20230617/pngtree-minimalist-digital-calculator-render-with-number-symbol-illustration-background-and-coins-image_3607487.jpg",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/calculator",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://bvkbb1.github.io/calculator/",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git Hub"
+            ]
+        },
+        {
+            "title": "Text to Speech Converter",
+            "description": "A simple text to speech converter app using the java-script Speech-Synthasis",
+            "category": "web-apps",
+            "image": "https://tse3.mm.bing.net/th/id/OIP.wtcuwIdb09VDNfX7qFxcdgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/text-to-speech-converter",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://bvkbb1.github.io/text-to-speech-converter/",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Git Hub"
+            ]
+        }
+    ],
+    "filterCategories": [
+        {
+            "name": "All",
+            "value": "all"
+        },
+        {
+            "name": "Flutter",
+            "value": "flutter"
+        },
+        {
+            "name": "Angular",
+            "value": "angular"
+        },
+        {
+            "name": "Web Apps",
+            "value": "web-apps"
+        },
+        {
+            "name": "Social Links",
+            "value": "social-links"
+        }
+    ]
+}
