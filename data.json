@@ -106,6 +106,28 @@
             ]
         },
         {
+            "title": "Clock App",
+            "description": "A beautifully designed clock app featuring Alarm, Stopwatch, Timer, and World Clock. Built with neumorphic UI, supports system light/dark mode, and offers a clean and minimal user interface.",
+            "category": "flutter",
+            "image": "https://wallpaperaccess.com/full/8552514.jpg",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/clockAppV",
+                    "icon": "fab fa-github"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Android",
+                "iOS",
+                "Neumorphism",
+                "Dark Mode",
+                "Clock App",
+                "GitHub"
+            ]
+        },
+        {
             "title": "E-commerce Dashboard",
             "description": "Admin dashboard for managing products, orders, and analytics with Angular",
             "category": "angular",
