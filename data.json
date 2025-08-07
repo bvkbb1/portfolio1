@@ -128,6 +128,35 @@
             ]
         },
         {
+          "title": "Tik Tak Toe",
+          "description": "A cross-platform Tik Tak Toe game built with Flutter featuring a neumorphic UI, responsive design for web and mobile, system light/dark mode, and animated win/draw dialogs. Supports Android, iOS, and Web with a clean and minimal interface.",
+          "category": "flutter",
+          "image": "https://i0.wp.com/logicalgamedesigner.com/wp-content/uploads/2021/12/CA15B056-1C20-4BA5-884B-96E4532CEC7D.png?resize=1024%2C1024&ssl=1", 
+          "links": [
+            {
+              "type": "code",
+              "url": "https://github.com/bvkbb1/TikTakToee",
+              "icon": "fab fa-github"
+            },
+            {
+              "type": "live",
+              "url": "https://tik-tak-toe-eccf4.web.app/", 
+              "icon": "fas fa-globe"
+            }
+          ],
+          "tags": [
+            "Flutter",
+            "Android",
+            "iOS",
+            "Web",
+            "Game",
+            "Neumorphism",
+            "Dark Mode",
+            "Open Source",
+            "GitHub"
+          ]
+        },
+        {
             "title": "E-commerce Dashboard",
             "description": "Admin dashboard for managing products, orders, and analytics with Angular",
             "category": "angular",
