@@ -3,7 +3,7 @@
         "name": "Vinay Kumar Bantubilli",
         "title": "Full-Stack Developer & UI/UX Designer",
         "bio": "Passionate Flutter developer with experience building cross-platform apps for Android, iOS, and Web. Skilled in creating elegant, high-performance applications that solve real-world problems.\n<br>Familiar with a wide range of technologies including Angular, Material UI, PrimeNG, Bootstrap, HTML, CSS, JavaScript, MongoDB, PostgreSQL, Node.js, Express, Firebase, Supabase, and JSON Server.\n<br>I love turning complex ideas into smooth, user-friendly experiences.",
-        "image": "assets/profile_img.jpg",
+        "image": "https://bvkbb1.github.io/portfolio/assets/photos/vinay.jpeg",
         "socialLinks": [
             {
                 "platform": "GitHub",
