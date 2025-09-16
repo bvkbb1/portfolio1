@@ -180,6 +180,30 @@
           ]
         },
         {
+            "title": "Google Play Stats Dashboard",
+            "description": "A real-time dashboard built with Flutter and Node.js to visualize Google Play app performance. It integrates Google Play Developer API + Cloud Storage for fetching reviews, installs, and country-wise stats. Features include tabular views, filters, and scalable API design.",
+            "category": "flutter",
+            "image": "https://i.sstatic.net/Q3Fo3.png",
+            "links": [
+                {
+                "type": "code",
+                "url": "https://github.com/bvkbb1/google_play_stats", 
+                "icon": "fab fa-github"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Node.js",
+                "Express server",
+                "Google Play API",
+                "Google Cloud",
+                "App Analytics",
+                "Mobile Dashboard",
+                "Dart",
+                "Backend Integration"
+            ]
+            },
+        {
             "title": "Portfolio - 1",
             "description": "Responsive portfolio website showcasing projects and skills",
             "category": "web-apps",
