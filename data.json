@@ -180,21 +180,44 @@
             ]
         },
         {
+  "title": "LinguaEase - Language Translation App",
+  "description": "A simple and intuitive mobile translation app developed using Flutter and Provider for state management. Users can type any description in their preferred language and instantly translate it into another language of choice. The app features a clean Material Design interface, language selection dropdown, and integrates with translation APIs for real-time conversion. Designed to be lightweight, responsive, and user-friendly across both Android and iOS platforms.",
+  "category": "flutter",
+  "image": "https://static.vecteezy.com/system/resources/thumbnails/009/346/952/small/language-translation-concept-illustration-vector.jpg",
+  "links": [
+    {
+      "type": "playstore",
+      "url": "",
+      "icon": "fab fa-google-play"
+    },
+    {
+      "type": "appstore",
+      "url": "",
+      "icon": "fab fa-apple"
+    }
+  ],
+  "tags": [
+    "Flutter",
+    "Provider",
+    "Translation",
+    "Android",
+    "iOS",
+    "Google Translate API",
+    "Productivity",
+    "Language App"
+  ]
+        },
+        {
             "title": "Portfolio - 1",
             "description": "Responsive portfolio website showcasing projects and skills",
             "category": "web-apps",
-            "image": "https://adslgroup.com/wp-content/uploads/2018/07/Portfolio-ADSL-Social.png",
+            "image": "https://play.google.com/store/apps/details?id=com.speaktranslate.tts.speechtotext.voicetyping.translator",
             "links": [
-                {
-                    "type": "code",
-                    "url": "https://github.com/bvkbb1/portfolio",
-                    "icon": "fab fa-github"
-                },
-                {
-                    "type": "demo",
-                    "url": "https://bvkbb1.github.io/portfolio/",
-                    "icon": "fas fa-external-link-alt"
-                }
+               {
+  "type": "github",
+  "url": "https://github.com/your-username/linguaease",
+  "icon": "fab fa-github"
+},
             ],
             "tags": [
                 "HTML",
