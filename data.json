@@ -183,7 +183,7 @@
             "title": "Google Play Stats Dashboard",
             "description": "A real-time dashboard built with Flutter and Node.js to visualize Google Play app performance. It integrates Google Play Developer API + Cloud Storage for fetching reviews, installs, and country-wise stats. Features include tabular views, filters, and scalable API design.",
             "category": "flutter",
-            "image": "https://i.sstatic.net/Q3Fo3.png",
+            "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230620123153/Tabular-Presentation-of-Data-copy.webp",
             "links": [
                 {
                 "type": "code",
