@@ -179,14 +179,22 @@
                 "Dashboard"
             ]
         },
-        
         {
             "title": "Portfolio - 1",
             "description": "Responsive portfolio website showcasing projects and skills",
             "category": "web-apps",
-            "image": "https://play.google.com/store/apps/details?id=com.speaktranslate.tts.speechtotext.voicetyping.translator",
+            "image": "https://adslgroup.com/wp-content/uploads/2018/07/Portfolio-ADSL-Social.png",
             "links": [
-               
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/portfolio",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://bvkbb1.github.io/portfolio/",
+                    "icon": "fas fa-external-link-alt"
+                }
             ],
             "tags": [
                 "HTML",
