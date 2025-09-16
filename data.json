@@ -180,32 +180,28 @@
             ]
         },
         {
-  "title": "LinguaEase - Language Translation App",
-  "description": "A simple and intuitive mobile translation app developed using Flutter and Provider for state management. Users can type any description in their preferred language and instantly translate it into another language of choice. The app features a clean Material Design interface, language selection dropdown, and integrates with translation APIs for real-time conversion. Designed to be lightweight, responsive, and user-friendly across both Android and iOS platforms.",
-  "category": "flutter",
-  "image": "https://static.vecteezy.com/system/resources/thumbnails/009/346/952/small/language-translation-concept-illustration-vector.jpg",
-  "links": [
-    {
-      "type": "playstore",
-      "url": "",
-      "icon": "fab fa-google-play"
-    },
-    {
-      "type": "appstore",
-      "url": "",
-      "icon": "fab fa-apple"
-    }
-  ],
-  "tags": [
-    "Flutter",
-    "Provider",
-    "Translation",
-    "Android",
-    "iOS",
-    "Google Translate API",
-    "Productivity",
-    "Language App"
-  ]
+          "title": "LinguaEase - Language Translation App",
+          "description": "A simple and intuitive mobile translation app developed using Flutter and Provider for state management. Users can type any description in their preferred language and instantly translate it into another language of choice. The app features a clean Material Design interface, language selection dropdown, and integrates with translation APIs for real-time conversion. Designed to be lightweight, responsive, and user-friendly across both Android and iOS platforms.",
+          "category": "flutter",
+          "image": "https://static.vecteezy.com/system/resources/thumbnails/009/346/952/small/language-translation-concept-illustration-vector.jpg",
+          "links": [
+           {
+              "type": "github",
+              "url": "https://github.com/bvkbb1/Text-Translation",
+              "icon": "fab fa-github"
+            }
+        
+          ],
+          "tags": [
+            "Flutter",
+            "Provider",
+            "Translation",
+            "Android",
+            "iOS",
+            "Google Translate API",
+            "Productivity",
+            "Language App"
+          ]
         },
         {
             "title": "Portfolio - 1",
