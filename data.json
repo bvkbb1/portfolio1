@@ -202,7 +202,33 @@
                 "Dart",
                 "Backend Integration"
             ]
-            },
+        },
+        {
+            "title": "My Mic V - Flutter Microphone Widget",
+            "description": "A customizable Flutter microphone widget with speech-to-text functionality, glow animations, and easy integration for iOS and Android apps.",
+            "category": "flutter",
+            "image": "https://cdn-icons-png.flaticon.com/512/10024/10024079.png",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbb1/my_mic_v",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://pub.dev/packages/my_mic_v",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Dart",
+                "Microphone",
+                "Speech-to-Text",
+                "Widget",
+                "Animation"
+            ]
+        },
         {
             "title": "Portfolio - 1",
             "description": "Responsive portfolio website showcasing projects and skills",
