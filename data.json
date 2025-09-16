@@ -186,11 +186,7 @@
             "category": "web-apps",
             "image": "https://play.google.com/store/apps/details?id=com.speaktranslate.tts.speechtotext.voicetyping.translator",
             "links": [
-               {
-  "type": "github",
-  "url": "https://github.com/your-username/linguaease",
-  "icon": "fab fa-github"
-},
+               
             ],
             "tags": [
                 "HTML",
