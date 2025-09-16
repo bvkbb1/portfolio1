@@ -3,7 +3,7 @@
         "name": "Vinay Kumar Bantubilli",
         "title": "Full-Stack Developer & UI/UX Designer",
         "bio": "Passionate Flutter developer with experience building cross-platform apps for Android, iOS, and Web. Skilled in creating elegant, high-performance applications that solve real-world problems.\n<br>Familiar with a wide range of technologies including Angular, Material UI, PrimeNG, Bootstrap, HTML, CSS, JavaScript, MongoDB, PostgreSQL, Node.js, Express, Firebase, Supabase, and JSON Server.\n<br>I love turning complex ideas into smooth, user-friendly experiences.",
-        "image": "https://bvkbb1.github.io/portfolio/assets/photos/vinay.jpeg",
+        "image": "assets/profile_img.jpg",
         "socialLinks": [
             {
                 "platform": "GitHub",
@@ -157,27 +157,27 @@
           ]
         },
         {
-            "title": "E-commerce Dashboard",
-            "description": "Admin dashboard for managing products, orders, and analytics with Angular",
-            "category": "angular",
-            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
-            "links": [
-                {
-                    "type": "code",
-                    "url": "https://github.com/alexjohnson/ecommerce-dashboard",
-                    "icon": "fab fa-github"
-                },
-                {
-                    "type": "demo",
-                    "url": "https://ecommerce-dashboard-demo.com",
-                    "icon": "fas fa-external-link-alt"
-                }
-            ],
-            "tags": [
-                "Angular",
-                "TypeScript",
-                "Dashboard"
-            ]
+          "title": "Language Translation App",
+          "description": "A lightweight mobile translation app built with Flutter and Provider. Users can enter text in their language and translate it instantly into another. It features a clean Material Design UI, language selection dropdown, and real-time translation via APIs, optimized for both Android and iOS.",
+          "category": "flutter",
+          "image": "https://play-lh.googleusercontent.com/bhnWg_pb-enbXYOgq84WE-YYJ2GK22RthhN4MIL2p_lGIBTAmcy9FaUZf9vqqfXp_A=w526-h296-rw",
+          "links": [
+           {
+              "type": "github",
+              "url": "https://github.com/bvkbb1/Text-Translation",
+              "icon": "fab fa-github"
+            }
+          ],
+          "tags": [
+            "Flutter",
+            "Provider",
+            "Translation",
+            "Android",
+            "iOS",
+            "Google Translate API",
+            "Productivity",
+            "Language App"
+          ]
         },
         {
             "title": "Portfolio - 1",
@@ -201,6 +201,29 @@
                 "CSS",
                 "JavaScript",
                 "Git Hub"
+            ]
+        },
+        {
+            "title": "E-commerce Dashboard",
+            "description": "Admin dashboard for managing products, orders, and analytics with Angular",
+            "category": "angular",
+            "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=250&fit=crop",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/alexjohnson/ecommerce-dashboard",
+                    "icon": "fab fa-github"
+                },
+                {
+                    "type": "demo",
+                    "url": "https://ecommerce-dashboard-demo.com",
+                    "icon": "fas fa-external-link-alt"
+                }
+            ],
+            "tags": [
+                "Angular",
+                "TypeScript",
+                "Dashboard"
             ]
         },
         {
