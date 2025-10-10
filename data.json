@@ -230,6 +230,45 @@
             ]
         },
         {
+            "title": "Real-Time Chat & Video Calling App",
+            "description": "A feature-rich real-time communication app built using Flutter, Firebase, and WebRTC. It includes seamless chat and video calling functionalities with online status, typing indicators, reactions, and camera/speaker controls. Designed for both dark and light themes with Firebase Cloud Messaging integration for instant call and message alerts.",
+            "category": "flutter",
+            "image": "https://cdn.mos.cms.futurecdn.net/QC2AE7kyGxNL8PGKdCsfS.jpg",
+            "links": [
+                {
+                "type": "code",
+                "url": "https://github.com/bvkbb1/bbChats.git",
+                "icon": "fab fa-github"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Firebase",
+                "Firestore",
+                "Firebase Auth",
+                "Firebase Cloud Messaging",
+                "WebRTC",
+                "Provider",
+                "Hive",
+                "Real-Time Chat",
+                "Video Calling",
+                "Mute/Unmute",
+                "Camera Switch",
+                "Speaker Toggle",
+                "Online Status Tracking",
+                "Typing Indicator",
+                "Message Reactions",
+                "Message Delete",
+                "Reply Messages",
+                "Push Notifications",
+                "Dark Mode",
+                "Light Mode",
+                "System Theme",
+                "Dart",
+                "Mobile App Development"
+            ]
+        },
+        {
             "title": "Portfolio - 1",
             "description": "Responsive portfolio website showcasing projects and skills",
             "category": "web-apps",
