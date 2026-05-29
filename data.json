@@ -24,6 +24,68 @@
     },
     "projects": [
         {
+            "title": "SecuGen Fingerprint Scanner Plugin",
+            "description": "Developed a reusable Flutter plugin for Android that integrates SecuGen biometric fingerprint devices. The plugin captures fingerprint images through the SecuGen native SDK and provides the output as Base64-encoded image data to Flutter applications. Designed for attendance systems, identity verification, healthcare, and enterprise biometric solutions.",
+            "category": "flutter",
+            "image": "https://imgs.search.brave.com/XSQvxAaTWAlLZmmfyTwkID1RM9yrx_WZUpgaVboabHo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aWlt/Zy50aXN0YXRpYy5j/b20vZnAvMS8wMDkv/MTQzL3NlY3VnZW4t/ZmluZ2VycHJpbnQt/c2Nhbm5lci0zMDIu/anBn",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/your-github-username/secugen_flutter_plugin",
+                    "icon": "fab fa-github"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Android Only",
+                "Plugin Development",
+                "SecuGen SDK",
+                "Fingerprint Capture",
+                "Biometrics",
+                "Method Channels",
+                "Hardware Device Integration",
+                "Base64",
+                "Native Android",
+                "Flutter Package",
+                "Identity Verification"
+            ]
+        },
+        {
+            "title": "Mantra Aadhaar & ABHA Authentication Integration",
+            "description": "Developed a Flutter-based Aadhaar and ABHA authentication solution integrated with Mantra biometric fingerprint devices. The application renders a custom HTML page inside a Flutter WebView to communicate with the Mantra RD Service. Fingerprint data is captured through the registered device and returned as encrypted PID/Base64 data, which can be used by authorized backend APIs for Aadhaar eKYC and ABHA verification workflows. For web deployments, RD Service SDK files are installed on the client machine, while Android devices utilize the Mantra RD Service application available through the Play Store. The solution enables secure biometric authentication and identity verification through registered biometric devices.",
+            "category": "flutter",
+            "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/your-github-username/mantra-aadhaar-abha-integration",
+                    "icon": "fab fa-github"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Android",
+                "WebView",
+                "HTML",
+                "JavaScript",
+                "Mantra Device",
+                "Mantra RD Service",
+                "Biometric Authentication",
+                "Fingerprint Scanner",
+                "Aadhaar",
+                "ABHA",
+                "eKYC",
+                "PID Data",
+                "Base64",
+                "Identity Verification",
+                "SDK Integration",
+                "Hardware Integration",
+                "API Integration",
+                "Healthcare",
+                "Government Services"
+            ]
+        },
+        {
             "title": "MMAK - Task Management App",
             "description": "A simple and efficient task management mobile app developed using Flutter and Firebase, deployed for clients like Katzung Pharmaceuticals and Pulse Hospitals. The app supports three user roles: Admin, Manager, and User. Admins can create users, managers, and other admins, as well as view all tasks in detail. Managers can view their own tasks and those of their team. Users can create personal tasks and assign them to coworkers or managers. MMAK is available on both Android and iOS platforms.",
             "category": "flutter",
