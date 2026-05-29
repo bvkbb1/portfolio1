@@ -31,7 +31,7 @@
             "links": [
                 {
                     "type": "code",
-                    "url": "https://github.com/your-github-username/secugen_flutter_plugin",
+                    "url": "git@github.com:bvkbbflutter/secuGen_suv_plugin.git”,
                     "icon": "fab fa-github"
                 }
             ],
@@ -54,11 +54,11 @@
             "title": "Mantra Aadhaar & ABHA Authentication Integration",
             "description": "Developed a Flutter-based Aadhaar and ABHA authentication solution integrated with Mantra biometric fingerprint devices. The application renders a custom HTML page inside a Flutter WebView to communicate with the Mantra RD Service. Fingerprint data is captured through the registered device and returned as encrypted PID/Base64 data, which can be used by authorized backend APIs for Aadhaar eKYC and ABHA verification workflows. For web deployments, RD Service SDK files are installed on the client machine, while Android devices utilize the Mantra RD Service application available through the Play Store. The solution enables secure biometric authentication and identity verification through registered biometric devices.",
             "category": "flutter",
-            "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+            "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/biometric-device/c/6/l/0-mfs110-l1-device-biometric-device-mantra-original-imah3fvqryfgcgcz.jpeg?q=70",
             "links": [
                 {
                     "type": "code",
-                    "url": "https://github.com/your-github-username/mantra-aadhaar-abha-integration",
+                    "url": "git@github.com:bvkbbflutter/mantra_aadhar_auth.git",
                     "icon": "fab fa-github"
                 }
             ],
