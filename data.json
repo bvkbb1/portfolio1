@@ -31,7 +31,7 @@
             "links": [
                 {
                     "type": "code",
-                    "url": "git@github.com:bvkbbflutter/secuGen_suv_plugin.git”,
+                    "url": "https://github.com/bvkbbflutter/secuGen_suv_plugin.git”,
                     "icon": "fab fa-github"
                 }
             ],
@@ -58,7 +58,7 @@
             "links": [
                 {
                     "type": "code",
-                    "url": "git@github.com:bvkbbflutter/mantra_aadhar_auth.git",
+                    "url": "https://github.com/bvkbbflutter/mantra_aadhar_auth.git",
                     "icon": "fab fa-github"
                 }
             ],
