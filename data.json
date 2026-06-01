@@ -24,6 +24,45 @@
     },
     "projects": [
         {
+            "title": "Flutter Home Screen Counter Widget with Native Android Integration",
+            "description": "Designed and developed a Flutter-based Home Screen Widget application that enables real-time counter synchronization between a Flutter mobile application and an Android Home Screen Widget. The solution leverages the HomeWidget package to establish seamless communication between Flutter and native Android components while using SharedPreferences as a shared storage layer. Implemented a custom Android AppWidgetProvider in Kotlin to handle widget lifecycle events, background interactions, and widget updates without requiring the Flutter engine to be launched. Developed native BroadcastReceiver functionality to process widget button clicks directly from the home screen, increment counter values, persist data, and refresh widget UI instantly. On the Flutter side, implemented reactive state management using ValueNotifier, automatic synchronization on app lifecycle changes, background callback handling for widget interactions, and bidirectional data updates between the application and widget. The project demonstrates Flutter-to-native Android interoperability, widget communication, background processing, SharedPreferences data sharing, MethodChannel integration, and efficient home screen widget development for Android platforms.",
+            "category": "flutter",
+            "image": "https://drive.google.com/file/d/1dqUdZkFv-IgF5_sWJJBFIU3h611lP9oC/view?usp=sharing",
+            "links": [
+                {
+                    "type": "code",
+                    "url": "https://github.com/bvkbbflutter/home_screen_widget_demo.git",
+                    "icon": "fab fa-github"
+                }
+            ],
+            "tags": [
+                "Flutter",
+                "Dart",
+                "Android",
+                "Kotlin",
+                "Home Widget",
+                "HomeWidget Package",
+                "Android Widget",
+                "AppWidgetProvider",
+                "BroadcastReceiver",
+                "SharedPreferences",
+                "MethodChannel",
+                "Native Android",
+                "Flutter Integration",
+                "Widget Development",
+                "Counter App",
+                "State Management",
+                "ValueNotifier",
+                "Background Processing",
+                "Widget Synchronization",
+                "Mobile Development",
+                "Cross Platform",
+                "Flutter Widgets",
+                "Android Development",
+                "Real Time Updates"
+            ]
+        },
+        {
             "title": "SecuGen Fingerprint Scanner Plugin",
             "description": "Developed a reusable Flutter plugin for Android that integrates SecuGen biometric fingerprint devices. The plugin captures fingerprint images through the SecuGen native SDK and provides the output as Base64-encoded image data to Flutter applications. Designed for attendance systems, identity verification, healthcare, and enterprise biometric solutions.",
             "category": "flutter",
