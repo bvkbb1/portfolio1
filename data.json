@@ -24,6 +24,46 @@
     },
     "projects": [
         {
+          "title": "Flutter Phone Field Plus",
+          "description": "A highly customizable Flutter package that provides an international phone number input field with country picker, international dialing codes, phone number validation, and flexible UI customization. Built to simplify phone number collection in Flutter applications while offering a clean developer experience and production-ready functionality across Android, iOS, Web, Windows, macOS, and Linux.",
+          "category": "flutter",
+          "image": "https://github.com/bvkbbflutter/flutter_phone_field_plus/blob/main/assets/screenshots/country_picker.png?raw=true",
+          "gallery": [
+            "https://github.com/bvkbbflutter/flutter_phone_field_plus/blob/main/assets/screenshots/country_picker.png?raw=true",
+            "https://github.com/bvkbbflutter/flutter_phone_field_plus/blob/main/assets/screenshots/success.png?raw=true",
+            "https://github.com/bvkbbflutter/flutter_phone_field_plus/blob/main/assets/screenshots/failed.png?raw=true"
+          ],
+          "links": [
+            {
+              "type": "code",
+              "url": "https://github.com/bvkbbflutter/flutter_phone_field_plus",
+              "icon": "fab fa-github"
+            },
+            {
+              "type": "package",
+              "url": "https://pub.dev/packages/flutter_phone_field_plus",
+              "icon": "fas fa-cube"
+            }
+          ],
+          "tags": [
+            "Flutter",
+            "Flutter Package",
+            "Phone Input",
+            "Phone Number Validation",
+            "Country Picker",
+            "International Phone Numbers",
+            "Dial Codes",
+            "Form Validation",
+            "Cross Platform",
+            "Developer Tools",
+            "Open Source",
+            "Pub.dev",
+            "Custom Widgets",
+            "UI Components",
+            "Mobile Development"
+          ]
+        },
+        {
             "title": "Flutter Home Screen Counter Widget with Native Android Integration",
             "description": "Designed and developed a Flutter-based Home Screen Widget application that enables real-time counter synchronization between a Flutter mobile application and an Android Home Screen Widget. The solution leverages the HomeWidget package to establish seamless communication between Flutter and native Android components while using SharedPreferences as a shared storage layer. Implemented a custom Android AppWidgetProvider in Kotlin to handle widget lifecycle events, background interactions, and widget updates without requiring the Flutter engine to be launched. Developed native BroadcastReceiver functionality to process widget button clicks directly from the home screen, increment counter values, persist data, and refresh widget UI instantly. On the Flutter side, implemented reactive state management using ValueNotifier, automatic synchronization on app lifecycle changes, background callback handling for widget interactions, and bidirectional data updates between the application and widget. The project demonstrates Flutter-to-native Android interoperability, widget communication, background processing, SharedPreferences data sharing, MethodChannel integration, and efficient home screen widget development for Android platforms.",
             "category": "flutter",
